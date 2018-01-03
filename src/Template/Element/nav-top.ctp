@@ -8,8 +8,8 @@ if (file_exists($file)) {
 } else {
 ?>
 
-<nav class="navbar navbar-light navbar-expand-md" style="background-image:url(&quot;assets/img/dust_scratches.png&quot;);font-family:'Open Sans', sans-serif;">
-  <div class="container-fluid"><a class="navbar-brand text-success" href="#"><img src="assets/img/maxservice-icon.jpg" class="mr-2" style="width:35px;height:35px;"><strong>MAX</strong> Service</a><button class="navbar-toggler" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+<nav class="navbar navbar-light navbar-expand-md" style="background-image:url(&quot;/material_design_theme/img/dust_scratches.png&quot;);font-family:'Open Sans', sans-serif;">
+  <div class="container-fluid"><a class="navbar-brand text-success" href="#"><img src="/material_design_theme/img/maxservice-icon.jpg" class="mr-2" style="width:35px;height:35px;"><strong>MAX</strong> Service</a><button class="navbar-toggler" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
     <div
       class="collapse navbar-collapse" id="navcol-1">
       <ul class="nav navbar-nav">

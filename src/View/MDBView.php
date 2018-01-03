@@ -9,7 +9,6 @@ class MDBView extends AppView
 {
     protected function _paths($plugin = null, $cached = true)
     {
-      debug('here'); exit;
         $prefix = $this->request->getParam('prefix') ? Inflector::camelize($this->request->getParam('prefix')) : false;
         $theme = $this->theme;
 

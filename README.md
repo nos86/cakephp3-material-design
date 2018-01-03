@@ -38,8 +38,7 @@ public function initialize()
 }
 ```
 
-
-### Customize Layout 
+### Customize Layout
 
 ```php
 // src/Controller/AppController.php
@@ -57,12 +56,6 @@ After you enable the AdminLTEView class in the AppController.php file, you can o
 For example, to overwrite the elements files, you must create them as follows:
 
 1. `src/Template/Plugin/AdminLTE/Element/nav-top.ctp`
-2. `src/Template/Plugin/AdminLTE/Element/aside-main-sidebar.ctp`
-3. `src/Template/Plugin/AdminLTE/Element/aside/user-panel.ctp`
-4. `src/Template/Plugin/AdminLTE/Element/aside/form.ctp`
-5. `src/Template/Plugin/AdminLTE/Element/aside/sidebar-menu.ctp`
-6. `src/Template/Plugin/AdminLTE/Element/aside-control-sidebar.ctp`
-7. `src/Template/Plugin/AdminLTE/Element/footer.ctp`
 
 The biggest news is that you can override elements also for prefixes. This means that you can have a footer element, for an environment that has an Admin prefix, and a different footer element for the environment that has no prefix.
 

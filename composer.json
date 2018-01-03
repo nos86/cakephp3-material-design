@@ -1,5 +1,5 @@
 {
-  "name": "nos86/cakephp3-MaterialDesign",
+  "name": "nos86/cakephp3-material-design",
   "description": "CakePHP 3.x Material Design Theme.",
   "type": "cakephp-plugin",
   "keywords": ["cakephp", "templates", "plugin"],
@@ -26,7 +26,7 @@
     }
   },
   "support": {
-    "issues": "https://github.com/nos86/cakephp3-MaterialDesign/issues",
-    "source": "https://github.com/nos86/cakephp3-MaterialDesign/"
+    "issues": "https://github.com/nos86/cakephp3-material-design/issues",
+    "source": "https://github.com/nos86/cakephp3-material-design/"
   }
 }

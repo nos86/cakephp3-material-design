@@ -1,0 +1,32 @@
+{
+  "name": "nos86/cakephp3-MaterialDesign",
+  "description": "CakePHP 3.x Material Design Theme.",
+  "type": "cakephp-plugin",
+  "keywords": ["cakephp", "templates", "plugin"],
+  "homepage": "https://github.com/nos86",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Salvatore Musumeci",
+      "email": "salvo.nos86@gmail.com",
+      "homepage": "https://github.com/nos86/",
+      "role": "Author"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.16",
+    "cakephp/cakephp": "~3.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "MaterialDesignTheme\\": "src"
+    }
+  },
+  "support": {
+    "issues": "https://github.com/nos86/cakephp3-MaterialDesign/issues",
+    "source": "https://github.com/nos86/cakephp3-MaterialDesign/"
+  }
+}

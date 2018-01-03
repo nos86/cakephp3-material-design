@@ -8,10 +8,6 @@ Configure::write('Theme', [
         'mini' => '<b>MD</b>B',
         'large' => '<b>Material</b> Design'
     ],
-    'login' => [
-        'show_remember' => true,
-        'show_register' => true,
-        'show_social' => true
-    ],
+    'image' => '/material_design_theme/img/mdb.jpg',
     'folder' => ROOT
 ]);
